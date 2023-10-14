@@ -1,4 +1,4 @@
-// Kai McFarlane and Desperto Esperto
+// Kai McFarlane, worked with Desperto Esperto
 
 #include <iostream>
 #include "StringData.h"
